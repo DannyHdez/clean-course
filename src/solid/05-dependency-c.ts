@@ -1,7 +1,5 @@
 export class LocalDataBaseService {
 
-    constructor() {}
-
     async getFakePosts() {
         return [
             {
